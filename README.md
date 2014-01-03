@@ -11,3 +11,9 @@ lein uberjar
 gem install foreman
 foreman start
 ```
+
+## Deploy to Stackato
+
+```bash
+stackato push -n
+```
