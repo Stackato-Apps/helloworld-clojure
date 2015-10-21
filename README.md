@@ -12,7 +12,7 @@ gem install foreman
 foreman start
 ```
 
-## Deploy to Stackato
+## Deploy to HPE Helion Stackato
 
 ```bash
 stackato push -n
