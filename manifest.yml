@@ -1,4 +1,4 @@
 applications:
 - name: helloworld-clojure
   docker_image: stackatoapps/helloworld-clojure:latest
-  mem: 128M
+  memory: 128M
